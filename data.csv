@@ -1,0 +1,16 @@
+sale_id,product_name,category,region,city,total_amount,payment_method,sale_date
+1,Premium Laptop,Electronics,Visayas,Cebu City,35000.00,GCash,2025-01-15
+2,Wireless Mouse,Accessories,NCR,Manila,1200.00,Cash,2025-01-20
+3,Mechanical Keyboard,Accessories,NCR,Makati,4500.00,GCash,2025-02-05
+4,Office Chair,Furniture,NCR,Pasig,7500.00,Credit Card,2025-02-18
+5,Budget Tablet,Electronics,Visayas,Iloilo City,12000.00,GCash,2025-02-22
+6,USB-C Hub,Accessories,Mindanao,Davao City,2200.00,Cash,2025-03-01
+7,27-inch Monitor,Electronics,NCR,Quezon City,15000.00,Credit Card,2025-03-05
+8,Ergonomic Desk,Furniture,Mindanao,Cagayan de Oro,18500.00,GCash,2025-03-10
+9,Noise Cancelling Headphones,Electronics,NCR,Manila,9500.00,GCash,2025-03-12
+10,USB Flash Drive 64GB,Accessories,NCR,Makati,650.00,Cash,2025-03-15
+11,Gaming Laptop,Electronics,Mindanao,Davao City,55000.00,Credit Card,2025-03-20
+12,Bluetooth Speaker,Electronics,Visayas,Cebu City,3200.00,GCash,2025-03-25
+13,Orthopedic Seat Cushion,Accessories,NCR,Pasig,1800.00,Cash,2025-04-02
+14,LED Desk Lamp,Furniture,NCR,Quezon City,2500.00,GCash,2025-04-10
+15,External SSD 1TB,Electronics,NCR,Manila,6200.00,Credit Card,2025-04-14
