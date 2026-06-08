@@ -5,6 +5,12 @@
             "driver": "SQLite",
             "database": "./Day04_practice.db",
             "name": "DAY_04"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQL_CLEANING",
+            "database": "./Day06_demo.db"
         }
     ]
 }
