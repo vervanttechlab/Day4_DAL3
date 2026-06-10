@@ -1,0 +1,21 @@
+-- SELECT e.name,
+--     d.dept_name,
+--     d.location
+-- FROM employees e
+--     INNER JOIN departments d ON e.dept_id = d.dept_id
+-- WHERE d.location = 'Manila'
+-- SELECT e.name,
+--     d.dept_name,
+--     d.location
+-- FROM employees e
+--     LEFT JOIN departments d ON e.dept_id = d.dept_id
+--     WHERE d.dept_name IS NULL
+-- SELECT e.name, p.project_id
+-- FROM employees e
+--     LEFT JOIN projects p ON e.emp_id = p.emp_id
+--     WHERE p.project_id IS NULL
+-- SELECT e.emp_id,
+--     e.name,
+--     p.project_id
+-- FROM employees e
+--     RIGHT JOIN projects p ON e.emp_id = p.emp_id;

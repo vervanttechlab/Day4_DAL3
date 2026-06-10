@@ -21,6 +21,10 @@ INSERT INTO payroll SELECT * FROM tempPayroll;
 DROP TABLE tempPayroll;
 
 
+
+SQL JOIN
+
+
 -- DELETE 
 
 

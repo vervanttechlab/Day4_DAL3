@@ -11,6 +11,12 @@
             "driver": "SQLite",
             "name": "SQL_CLEANING",
             "database": "./Day06_demo.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "DATA_TRANSFORMATION",
+            "database": "./Day07_demo.db"
         }
     ]
 }
